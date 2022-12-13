@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  outline: none;
+}
+
+body {
+  background-color: lightblue;
+  overflow-x: hidden;
+}
+
+.drum-pad {
+    margin-top: 10pc;
+}
+
+button {
+    min-height: 50px;
+    border-radius: 3px;
+    background-color: lightgrey;
+}
+
